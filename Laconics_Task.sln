@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laconics_Task", "Laconics_Task.csproj", "{C4137BC1-2A5D-4021-A40C-980A3D59C654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_Controller", "..\UnitTest_Controller\UnitTest_Controller.csproj", "{1CA070CE-2480-4229-AB21-AB8773D537BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4137BC1-2A5D-4021-A40C-980A3D59C654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4137BC1-2A5D-4021-A40C-980A3D59C654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4137BC1-2A5D-4021-A40C-980A3D59C654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4137BC1-2A5D-4021-A40C-980A3D59C654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA070CE-2480-4229-AB21-AB8773D537BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA070CE-2480-4229-AB21-AB8773D537BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA070CE-2480-4229-AB21-AB8773D537BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA070CE-2480-4229-AB21-AB8773D537BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3228B1CB-AC32-4DF1-843F-596703B27FEB}
+	EndGlobalSection
+EndGlobal
